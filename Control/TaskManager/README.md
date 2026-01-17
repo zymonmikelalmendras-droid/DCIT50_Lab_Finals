@@ -1,1 +1,1 @@
-This is the abstract parent class for all tasks. It stores the basic attributes like task ID, task name, and task description. It also sets the structure for subclasses by requiring them to implement the status getter and setter.
+This class manages all task-related operations. It stores the list of tasks and handles adding tasks, retrieving tasks for the table, and managing data flow between the UI and the model.
